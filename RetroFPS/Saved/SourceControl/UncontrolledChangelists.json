@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/pistol1_Sprite.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/pistol2_Sprite.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/pistol3_Sprite.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/pistol4_Sprite.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/pistol5_Sprite.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Textures/pistol5.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Textures/pistol1.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Textures/pistol2.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Textures/pistol3.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Textures/pistol4.uasset",
+				"D:/Developer/Unreal Engine/retro-fps/RetroFPS/Content/Sprites/Weapons/Pistol/Sprites/PFB_PistolFire.uasset"
+			]
+		}
+	]
+}
